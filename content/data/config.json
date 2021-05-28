@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "layout_type": "boxed",
     "style": "classic",
-    "palette": "#6b5b95",
+    "palette": "light blue",
     "mode": "light",
     "base_font": "serif",
     "header": {
